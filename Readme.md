@@ -22,7 +22,7 @@ As written in `pubspec.yaml`
 		build_runner:  ^2.2.0
 		hive_generator:  ^1.1.3
 
-The Hive package is used to store data locally.
+The [Hive](https://docs.hivedb.dev/#/) package is used to store data locally.
 
 ## Screenshots
 <img src="https://user-images.githubusercontent.com/61538002/180582489-59de9f4d-6c8f-4bf4-9ee9-b0b850820ba7.jpg" data-canonical-src="https://user-images.githubusercontent.com/61538002/180582489-59de9f4d-6c8f-4bf4-9ee9-b0b850820ba7.jpg" width="200" height="150" />
